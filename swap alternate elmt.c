@@ -22,7 +22,7 @@ array[i+1]=temp;
 }
 for(i=0;i<total;i++)
 {
-printf("%d",array[i]);
+printf("%d ",array[i]);
 }
 return 0;
 }
